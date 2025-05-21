@@ -23,7 +23,7 @@ int main(void){
         char removeNumberSpecComp[] = "Tog bort talet ";
         char removeNumberSpecNot[] = "Tog inte bort talet ";
         char findNumberfound[] = "Hittade talet ";
-        char findNumberNot[] = "Hittade inte talet ";
+        char findNumberNot[] = "Hittade inte talet   ";
         char buffer[10];
         Data data;
 
